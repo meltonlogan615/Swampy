@@ -12,7 +12,7 @@
 ## EMULATOR:
 [OpenEmu](https://openemu.org)
 
-## SOURCE FOR BIOS FILES (REGIONAL PROVISIONING)
+## SOURCE FOR BIOS FILES
 [PLAYSTATION BIOS](https://gist.github.com/juanbrujo/cf55d223ad01927a48f9ebac9f50bdee)
 
 ## SOURCE FOR GAME FILES
