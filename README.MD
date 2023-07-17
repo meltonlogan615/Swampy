@@ -7,7 +7,7 @@
 5. Drag and drop the Game Files into the same view. [^1]
 
 
-[^1] I keep getting an error, "Files failed to Import. No valid system detected: - Frogger 2 - Swampy's Revenge (USA).bin)", but after dismissing the alert, the game will load.
+[^1]: I keep getting an error, "Files failed to Import. No valid system detected: - Frogger 2 - Swampy's Revenge (USA).bin)", but after dismissing the alert, the game will load.
 
 ## EMULATOR:
 [OpenEmu](https://openemu.org)
