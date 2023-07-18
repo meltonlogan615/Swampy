@@ -16,11 +16,15 @@
 
 [^1]: I keep getting an error, "Files failed to Import. No valid system detected: - Frogger 2 - Swampy's Revenge (USA).bin)", but after dismissing the alert, the game will load.
 
-## EMULATOR:
+### EMULATOR:
 [OpenEmu](https://openemu.org)
 
-## SOURCE FOR BIOS FILES
+### SOURCE FOR BIOS FILES
 [PLAYSTATION BIOS](https://gist.github.com/juanbrujo/cf55d223ad01927a48f9ebac9f50bdee)
 
-## SOURCE FOR GAME FILES
+### SOURCE FOR GAME FILES
 [INTERNET ARCHIVE](https://archive.org/details/sony-playstation-champion-collection-0-g-updated)
+
+### GAME MANUAL
+[OLD GAMES DOWNLOAD](https://oldgamesdownload.com/wp-content/uploads/Frogger_2_Swampys_Revenge_Manual_PS_EN.pdf)
+
