@@ -1,8 +1,8 @@
 # FROGGER 2 - SWAMPY'S REVENGE
 
-1. Download OpenEmu Emulator from [here](https://openemu.org)
-2. Download the files in this repository
-3. In the left-navigation column, navigate to `Sony PlayStation`
+1. Download OpenEmu Emulator from [here](https://openemu.org).
+2. Download the files in this repository.
+3. In the left-navigation column, navigate to `Sony PlayStation`.
 ![Navigation Column](/readmeImgs/navigation.png)
 4. Drag and drop the BIOS Files into the main view on the right.
 ![Navigation Column](/readmeImgs/dragBIOS.png)
